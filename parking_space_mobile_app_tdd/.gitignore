@@ -1,0 +1,43 @@
+# React Native
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Android
+android/
+*.keystore
+*.jks
+
+# Xcode
+ios/
+*.xcworkspace
+*.xcodeproj
+*.xcuserstate
+*.xcuserdata
+
+# Expo
+.expo/
+.expo-shared/
+
+# VSCode
+.vscode/
+
+# OS/Editor junk
+*.swp
+*~
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Environment
+.env
+.env.*
+dist/
+build/
+coverage/
